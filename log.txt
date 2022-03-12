@@ -1,0 +1,96 @@
+commit 2b687ef452013f7ce0a07f29895bd13a7fec48df
+Author: aki <saintyoungmen1124@gmail.com>
+Date:   Wed Mar 9 22:40:27 2022 +0900
+
+    引数の数が違う時のリーク対応しました
+
+commit 555ebb5b2f8d807e3cd27890bfebd2a1afdbb7b9
+Author: Akihito Tomizawa <atomizaw@c1r30s10.42tokyo.jp>
+Date:   Wed Mar 9 00:41:59 2022 +0900
+
+    submit
+
+commit d91b51dc5c7489b4a7804c467f1cd7fba1f8e293
+Merge: d04a0b4 e5f9214
+Author: aki <saintyoungmen1124@gmail.com>
+Date:   Wed Mar 9 00:36:52 2022 +0900
+
+    merge successgit add .
+
+commit e5f92141881e21cc0ac190397ba7ca67916d2493
+Author: aki <saintyoungmen1124@gmail.com>
+Date:   Tue Mar 8 23:49:13 2022 +0900
+
+    added only_1_philo
+
+commit f24be521e55dd1a7efc61398f446e1e4bc1c4553
+Author: aki <saintyoungmen1124@gmail.com>
+Date:   Tue Mar 8 23:40:35 2022 +0900
+
+    norm
+
+commit d04a0b4941b37c9f9b87e9d3980db2586088af40
+Author: aki <saintyoungmen1124@gmail.com>
+Date:   Tue Mar 8 02:44:52 2022 +0900
+
+    philo_createの変更は関係ないっぽい
+
+commit 4acd5bf6835ee41f0bfad48db3611860a2b5ef80
+Author: aki <saintyoungmen1124@gmail.com>
+Date:   Tue Mar 8 02:38:56 2022 +0900
+
+    ./philo 5 800 200 200で死んでしまったからnorm対策したところを戻してみる
+
+commit b2932dec5841b42cd003d0d9b128d6d22d74d4e1
+Author: aki <saintyoungmen1124@gmail.com>
+Date:   Tue Mar 8 02:31:30 2022 +0900
+
+    philoが一人の時フォークを取る表示がなかったから追加
+
+commit f40fa11a0de1eb782c7c0a8b1a0f22179dd7d6cd
+Author: aki <saintyoungmen1124@gmail.com>
+Date:   Tue Mar 8 01:58:51 2022 +0900
+
+    norm対応でphilo_createを分割
+
+commit 9e3d2af30c7411d6426572eeae8bed489476cff9
+Author: aki <saintyoungmen1124@gmail.com>
+Date:   Sun Mar 6 23:21:00 2022 +0900
+
+    5以上でdeadlockしてる
+
+commit 56918b915b8a1d8586d452aec93ff37c95579aa1
+Author: aki <saintyoungmen1124@gmail.com>
+Date:   Sun Mar 6 22:13:14 2022 +0900
+
+    fix
+
+commit 996cd98a3bc2f48dfd5d70ac655a3a5ba6e1dc47
+Author: aki <saintyoungmen1124@gmail.com>
+Date:   Sun Mar 6 22:10:42 2022 +0900
+
+    fix
+
+commit 9dffddfc5cbb3e510da1576c3b683838e11cce7c
+Author: aki <saintyoungmen1124@gmail.com>
+Date:   Sun Mar 6 22:08:37 2022 +0900
+
+    nilまで回ってなかった
+
+commit 3eb9404d876fed71f9aa3ff461919862f164dc6f
+Author: aki <saintyoungmen1124@gmail.com>
+Date:   Sun Mar 6 21:57:49 2022 +0900
+
+    fix
+
+commit 3959f37c645fc55bc53718d0b8c9bb21e663b6f6
+Author: aki <saintyoungmen1124@gmail.com>
+Date:   Sun Mar 6 21:33:06 2022 +0900
+
+    セグフォ修正
+
+commit fa69ec6931c732a09393541231e08278386527d1
+Author: aki <saintyoungmen1124@gmail.com>
+Date:   Sun Mar 6 19:58:36 2022 +0900
+
+    ワカモレでテスト
